@@ -8,6 +8,8 @@
  * que no aplican. Escribe en la respuesta los que se ven afectados y son
  * eliminados.
 */
+#include <stdarg.h>
+
 enum {va_eol=-1};
 
 unsigned int average(int first, ...){
@@ -22,11 +24,9 @@ unsigned int average(int first, ...){
     {
         sum+= i;
         count++;
-        i = va_args(args, int);
+        i = va_arg(args, int);
     }
 
     va_end(args);
     return (count ? (sum /count) : 0);
-}
-    
 }
