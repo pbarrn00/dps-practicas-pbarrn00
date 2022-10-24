@@ -8,6 +8,10 @@
  * que no aplican. Escribe en la respuesta los que se ven afectados y son
  * eliminados.
 */
+
+/**
+ * DCL10-C. Maintain the contract between the writer and caller of variadic functions
+*/
 #include <stdarg.h>
 
 enum {va_eol=-1};
