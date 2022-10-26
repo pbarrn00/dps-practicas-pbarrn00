@@ -75,12 +75,12 @@
  *         │      mov   r1, r3
  *         │      sub   sp, fp, #12
  *   34,63 │      pop   {r4, r5, fp, pc}
-
-    4. La instruccion que mas tiempo de CPU requiere 	
-    
-    Restaurar registro de la pila POP. POP carga el registro Rd con un byte de la pila.
-    El puntero de pila es incrementado en uno antes del POP.
-                                       
+ *
+ *   4. The instruction that requires the most CPU time
+ *   
+ *   Restore POP stack register. POP loads the Rd register with one byte from the stack.
+ *   The stack pointer is incremented by one before the POP.
+ *                                      
 */
 #include <stdio.h>
 #include <stdlib.h>
