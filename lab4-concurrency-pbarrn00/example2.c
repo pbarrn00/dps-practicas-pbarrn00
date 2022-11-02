@@ -3,8 +3,12 @@
  */
 
 /**
+ * RULE: CON39-C. Do not join or detach a thread that was previously joined or detached
+ * A thread shall not be joined once it was previously joined or detached. 
+ * Similarly, a thread shall not be detached once it was previously joined or detached.
+ * Violating either of these subclauses results in undefined behavior.
  * 
- * PROBLEM:
+ * PROBLEM: The problem in the next example is that a detached thread is later joined, which is not allowed.
 */
 
 /*
@@ -35,7 +39,7 @@ int main(void) {
 */
 
 /**
- * SOLUTION:
+ * SOLUTION: Don't detach the thread. Its resources are released upon successfully joining with the main thread
 */
 
 #include <stddef.h>
