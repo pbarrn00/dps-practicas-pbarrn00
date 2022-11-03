@@ -13,11 +13,11 @@ struct s_fp {
 };
 
 void f_entrar(){
-    printf("Entrando...");
+    printf("Entrando...\n");
 }
 
 void f_espero_fuera(){
-    printf("Esperando fuera...");
+    printf("Esperando fuera...\n");
 }
 
 int main(int argc, char **argv)
@@ -33,5 +33,4 @@ int main(int argc, char **argv)
     strcpy(s_midat->buffer, argv[1]);
     f->fp();
     
-    return 0;
 }
