@@ -1,2 +1,0 @@
-#!/usr/bin/python
-print 'X' * 80 + '\x00\x01\x04\x9c'

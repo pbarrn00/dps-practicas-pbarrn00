@@ -1,0 +1,6 @@
+heap            -> 0x405000
+AAAA            -> 0x4052a0
+nowinner        -> 0x004011b4 (0x4052f0)
+rip1            -> 0x40124c
+rip             -> 0x46454443 equals to CDEF
+winner          -> 0x0040119a
