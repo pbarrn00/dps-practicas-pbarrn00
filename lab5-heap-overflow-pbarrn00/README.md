@@ -3,6 +3,7 @@ ___
 ### Description
 Heap overflow is a common vulnerability that can be exploited to gain code execution. This lab will walk you through the process of exploiting a heap overflow vulnerability.
 ___
+AAAA            -> 0x4052a0
 ### Setup
 Ubuntu 22.04.3 LTS
 gcc version 11.3.0 (Ubuntu 11.3.0-1ubuntu1~22.04)
