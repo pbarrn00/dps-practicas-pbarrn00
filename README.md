@@ -39,7 +39,7 @@ vera++ (Vera++ 1.3.0)
 │   ├── 📄 README.md
 │   ├── 📄 runTests
 │   └── 📄 tests.cpp
-├── 📂 lab3-variable-init-pbarrn00          # Ejercicios de programación segura Reglas de inicio de variables
+├── 📂 lab3-variable-init-pbarrn00          # Ejercicios de programación Reglas de inicio de variables
 │   ├── 📂 DLCblock-Recommendations
 │   │   ├── 📄 example1.c
 │   │   ├── 📄 example2.c
