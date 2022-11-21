@@ -88,7 +88,7 @@ vera++ (Vera++ 1.3.0)
 │   │   ├── 📸 string_mem.png
 │   │   └── 📸 target_rip.png
 │   └── README.md
-├── 📂 lab6-stack-overflow-pbarrn00             # Práctica de desborde de pila en C
+├── 📂 lab6-stack-overflow-pbarrn00             # Práctica de desborde de pila en C (NO TERMINADA)
 │   └── 📄 buffero.c
 └── 📄 README.md
 ```
