@@ -39,7 +39,7 @@ vera++ (Vera++ 1.3.0)
 │   ├── 📄 README.md
 │   ├── 📄 runTests
 │   └── 📄 tests.cpp
-├── 📂 lab3-variable-init-pbarrn00          # Ejercicios de programación segura Reglas de inicio de variables CMU CERT
+├── 📂 lab3-variable-init-pbarrn00          # Ejercicios de programación segura Reglas de inicio de variables
 │   ├── 📂 DLCblock-Recommendations
 │   │   ├── 📄 example1.c
 │   │   ├── 📄 example2.c
@@ -59,7 +59,7 @@ vera++ (Vera++ 1.3.0)
 │       ├── 📄 main.cpp
 │       ├── 📄 Makefile
 │       └── 📄 README.md
-├── 📂 lab4-concurrency-pbarrn00            # Ejercicios de programación segura Reglas de concurrencia CMU CERT
+├── 📂 lab4-concurrency-pbarrn00            # Ejercicios de programación segura Reglas de concurrencia
 │   ├── 📄 example1.c
 │   ├── 📄 example1.o
 │   ├── 📄 example2.c
