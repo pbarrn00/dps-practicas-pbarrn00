@@ -25,9 +25,9 @@ vera++ (Vera++ 1.3.0)
 
 ```
 .
-├── 📂 CMU-INT Reminder                     # Ejercicios de programación segura en C Reglas INT del CMU CERT
+├── 📂 CMU-INT Reminder                     # Ejercicios de programación segura en C Reglas INT
 │   └── 📄 CMU-INT-Example.c
-├── 📂 lab1-strings-pbarrn00                # Ejercicios de programación segura en C Reglas STR del CMU CERT
+├── 📂 lab1-strings-pbarrn00                # Ejercicios de programación segura en C Reglas STR
 │   ├── 📄 ejemplo1.c
 │   ├── 📄 ejemplo2.c
 │   ├── 📄 Makefile
