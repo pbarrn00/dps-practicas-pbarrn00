@@ -113,7 +113,7 @@ Para la práctica de heap overflow se ha seguido una guía simple del proceso de
 ## Autores ✒️
 
 
-* **Pablo Javier Barrio Navarro** - *Realización de la Práctica SNORT* - [Pablo Javier Barrio Navarro](https://github.com/pbarrn00) 
+* **Pablo Javier Barrio Navarro** - *Realización de las Prácticas* - [Pablo Javier Barrio Navarro](https://github.com/pbarrn00) 
 * **Francisco Javier Rodríguez Lera** - *Propuesta de las Prácticas* - [Francisco Javier Rogríguez Lera](https://github.com/fjrodl)
 
 ## _My Social Media_ 🔗
